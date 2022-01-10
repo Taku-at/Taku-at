@@ -24,5 +24,6 @@ Skills: VUE JS(in the future I will)) / REACT(in the future I will) / JS / HTML 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Taku-at)  
 
-![Generate from [GitHub Profile Readme Generator
-](https://arturssmirnovs.github.io/github-profile-readme-generator/)]
+### Generate from 
+![GitHub Profile Readme Generator
+](https://arturssmirnovs.github.io/github-profile-readme-generator/)
